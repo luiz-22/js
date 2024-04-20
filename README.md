@@ -36,5 +36,3 @@
 - Asincronia
     - Callback
     - Promesas
-
-https://es.javascript.info/
