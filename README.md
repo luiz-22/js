@@ -25,7 +25,7 @@
     - Closures
     - Call, Apply and Bind
 - JavaScript Orientado a Objetos
-    - Introcucción
+    - Introducción
     - Prototypal Inheritance
     - Todo es un objeto en JavaScript (o una primitiva)
     - Reflexion and Extend
@@ -33,6 +33,6 @@
     - Object.create y Pure Pototypal Inheritance
     - ES6 y Clases (class)
     - Modelando Objetos
-- Asincronia
+- Asincronía
     - Callback
     - Promesas
