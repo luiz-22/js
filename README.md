@@ -23,7 +23,7 @@ Conceptos fundamentales de JavaScript.
     - Variable `this`
     - Contexto global inicial
     - En el contexto de una función
-    - Immediately invoked functions expressions (IIFE)s
+    - Immediately invoked functions expressions (IIFEs)
     - Closures
     - Call, Apply and Bind
 - JavaScript Orientado a Objetos
