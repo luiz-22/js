@@ -1,6 +1,8 @@
-<h1 align="center">JavaScript - Conceptos fundamentales</h1>
+<h1 align="center">JavaScript</h1>
 
-## Tabla de contenidos
+Conceptos fundamentales de JavaScript.
+
+## Temas
 
 - Fundamentos
     - var, let y const
