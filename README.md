@@ -1,6 +1,6 @@
 <h1 align="center">JavaScript</h1>
 
-Guía de los principales conceptos de JavaScript.
+Guía de los conceptos principales de JavaScript.
 
 [Link](https://luisblog.vercel.app/js/fundamentos)
 
