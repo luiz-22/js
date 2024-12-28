@@ -1,4 +1,4 @@
-<h1 align="center">JavaScript</h1>
+# JavaScript
 
 Conceptos principales de JavaScript.
 
