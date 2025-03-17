@@ -1,8 +1,6 @@
 # JavaScript
 
-Principales conceptos de JavaScript.
-
-[Guía](https://luisblog.vercel.app/js/fundamentos)
+[Guía](https://luisblog.vercel.app/js/fundamentos) de los principales conceptos de JavaScript.
 
 ## 📖 Temas
 
